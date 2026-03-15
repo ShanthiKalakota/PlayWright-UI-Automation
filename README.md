@@ -128,7 +128,7 @@ Report usage guidance:
 # Project Structure
 
 ```text
-AIAgentMCP/
+PlaywrightAutomation/
 |-- .github/
 |-- .vscode/
 |-- features/
