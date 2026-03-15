@@ -130,7 +130,6 @@ Report usage guidance:
 ```text
 PlaywrightAutomation/
 |-- .github/
-|-- .vscode/
 |-- features/
 |   |-- add-remove-elements.feature
 |   |-- advanced-links.feature
@@ -231,9 +230,6 @@ PlaywrightAutomation/
 |   |-- sample-upload.txt
 |   `-- secureDomLinks.data.js
 |-- test-results/
-|-- tests/
-|   |-- PROJECT_STRUCTURE.md
-|   `-- README.md
 |-- .gitignore
 |-- package-lock.json
 |-- package.json
